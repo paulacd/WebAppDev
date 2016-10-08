@@ -13,5 +13,13 @@ li{
 	font-size: 16px;
 	padding: 10px 30px;
 	border-radius: 5px;
-
+}
+.col-lg-12{
+	background: red;
+}
+.col-lg-4{
+	background: blue;
+}
+.col-lg-8{
+	background: green;
 }
